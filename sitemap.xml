@@ -3,11 +3,473 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/links/onlinecourses/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/tutorials/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/journals/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/software/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/websites/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/big-data/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chuan-he/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-of-the-american-chemical-society/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/large-scale-datasets/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lei-yang/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lulu-hu/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plants/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/qing-dai/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shaorong-gao/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shengtong-han/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wenhui-sheng/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xiaochen-kou/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xiaolong-cui/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xin-he/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xingyu-lu/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yanhong-zhao/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yawei-gao/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yuwen-liu/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/opportunities/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/links/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/the-american-journal-of-human-genetics/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-ercument-cicek/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/evan-geller/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/iuliana-ionita-laza/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/james-p.-noonan/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jean-morrison/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jinchen-li/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jinyu-wu/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kun-xia/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martina-krenzer/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicholas-knoblauch/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rebecca-a.-muhle/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/siming-zhao/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yan-wang/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yanyu-liang/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yi-jiang/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yue-mei/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhong-sheng-sun/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhongshan-li/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/genome-biology-1/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/heather-eckart/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kevin-p.-white/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shan-yu/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tonya-brunetti/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vineet-k.-dhiman/</loc>
+    <lastmod>2017-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gong-hong-wei/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jiayu-wu/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/junbo-liang/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/qin-zhang/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/song-liu/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/genome-biology-2/</loc>
+    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jie-zhou/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bioinformatics/</loc>
+    <lastmod>2013-12-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
   </url>
   
   <url>
@@ -15,27 +477,59 @@
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/software/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/software/%E4%BB%98%E9%98%B3/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/software/%E5%88%98%E6%AF%93%E6%96%87/</loc>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/tag/%E5%8D%9A%E5%90%8E/</loc>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/tag/%E5%8D%9A%E5%A3%AB/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/software/%E5%BC%A0%E5%9C%86%E5%9C%86/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/%E5%BC%A0%E6%9D%BE/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/%E7%8E%8B%E8%B6%85/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/%E7%A0%94%E7%A9%B6%E5%91%98/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/%E7%A1%95%E5%A3%AB/</loc>
+  </url>
+  
+  <url>
+    <loc>/tag/%E7%A7%91%E7%A0%94%E5%8A%A9%E7%90%86/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/%E9%83%91%E4%BC%9F%E5%88%9A/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/%E9%99%88%E7%95%B4%E9%9C%96/</loc>
+  </url>
+  
+  <url>
+    <loc>/software/%E9%A9%AC%E6%96%87%E9%BE%99/</loc>
   </url>
   
 </urlset>

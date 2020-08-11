@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shan Yu | Liu-Lab</title>
+    <link>/author/shan-yu/</link>
+      <atom:link href="/author/shan-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shan Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shan Yu</title>
+      <link>/author/shan-yu/</link>
+    </image>
+    
+    <item>
+      <title>Functional assessment of human enhancer activities using whole-genome STARR-sequencing</title>
+      <link>/publication/genome-biology-1/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/genome-biology-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic identification of regulatory variants associated with cancer risk</title>
+      <link>/publication/genome-biology-2/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/genome-biology-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
